@@ -1,4 +1,5 @@
-**DynamicMetaTags-React-Node**
+**Dynamic Meta Tags in React Apps and NodeJS Server**
+
 I'll talk about Adding Meta Tags Dynamically to React Apps Using a NodeJS Server. All social networking networks, including Facebook, Twitter, Linkedin, Whatsapp, and others, are compatible with the dynamic Meta tags.
 
 The /home page, /about page, /post/:id pages, and /contact pages on your website project are examples of React app routes. The meta title, meta description, OG title, OG url, OG image, and other similar meta tags are all set on each of these pages.
