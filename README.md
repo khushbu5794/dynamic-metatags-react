@@ -1,4 +1,4 @@
-<h1>Dynamic Meta Tags in React Apps and NodeJS Server</h1>
+<h1>Dynamic Meta Tags in React Apps</h1>
 <p>
 The tutorial "dynamic meta tags to a React app without SSR" has a support repository. a quick and efficient way to inject dynamic meta tags into a React application without using SSR.
 
@@ -25,9 +25,9 @@ In the project directory, you can run:
 ```sh
 npm run server
 ```
-Builds the app for production and start the server on port 3000.
+Builds the app for production and start the server on port 5000.
 
-You can see how meta tags changes based on the requested URL, e.g. [http://localhost:3000/home](http://localhost:3000/home), [http://localhost:3000/about?](http://localhost:3000/about) 
+You can see how meta tags changes based on the requested URL, e.g. [http://localhost:5000](http://localhost:5000), [http://localhost:5000/about](http://localhost:5000/about), [http://localhost:5000/shopping/7](http://localhost:5000/shopping/7) 
 
 ## Author
 
